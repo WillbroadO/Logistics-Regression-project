@@ -8,8 +8,7 @@ This is regression analysis project that is conducted when the dependent variabl
 * Checking that the dataset size is sufficient
 * Deploying and evaluating logisticRegression model
 * Model Evaluation Classification report without cross-validation
-                 * K-fold cross-validation & confusion matrices
-                 * Make a test prediction   
+* K-fold cross-validation & confusion matri* Make a test prediction   
 
 
 
